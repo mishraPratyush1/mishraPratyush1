@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning angular and git
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- doing android development now
 
 <!---
 mishraPratyush1/mishraPratyush1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
