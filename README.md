@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @mishraPratyush1
+- i am a mobile developer building apps on android platform as well as cross platform using xamarin
 - 👀 I’m interested in front end development and a bit of backend
 - 🌱 I’m currently learning angular and git
 - 💞️ I’m looking to collaborate on ...
